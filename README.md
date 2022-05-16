@@ -1,3 +1,7 @@
+# Purpose
+
+Built a basic component to understand how the useState Hook works in react. Start the up by running **npm start**. Once the app starts you will be experience the wonderful possilibilites of userState.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
