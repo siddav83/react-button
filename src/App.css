@@ -8,9 +8,21 @@ body {
 }
 
 button {
+  font-size: 30px;
   padding:20px;
 }
 
 span {
   padding: 20px;
 }
+
+h1 {
+  text-align: center;
+}
+
+.container {
+
+  display: flex;
+  justify-content: center;
+}
+
